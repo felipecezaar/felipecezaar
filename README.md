@@ -7,7 +7,7 @@
 [<img src="https://img.shields.io/badge/%F0%9F%8F%9B️-Coffee-blue?style=flat&color=grey"/>](#)
 
 <br>
-<img src="https://raw.githubusercontent.com/felipecezaar/felipecezaar/refs/heads/main/images/img.webp" alt="ilustração de um computador" min-width="300px" max-width="300px" width="300px" align="right">
+<img src="https://raw.githubusercontent.com/felipecezaar/felipecezaar/refs/heads/main/images/computer-illustration-code.png" alt="ilustração de um computador" min-width="300px" max-width="300px" width="300px" align="right">
 
 
 - 🧰 DevOps Specialist passionate about automation and good practices  
