@@ -27,11 +27,11 @@
 
 ![Terraform](https://img.shields.io/badge/-Terraform-333333?style=flat&logo=terraform)  
 ![Ansible](https://img.shields.io/badge/-Ansible-333333?style=flat&logo=ansible)  
-![Helm](https://img.shields.io/badge/-Helm-333333?style=flat&logo=helm)
-![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-333333?style=flat&logo=githubactions)
-![GitLab CI](https://img.shields.io/badge/-GitLab%20CI-333333?style=flat&logo=gitlab)
-![FluxCD](https://img.shields.io/badge/-FluxCD-333333?style=flat&logo=flux)
-![ArgoCD](https://img.shields.io/badge/-ArgoCD-333333?style=flat&logo=argo)
+![Helm](https://img.shields.io/badge/-Helm-333333?style=flat&logo=helm)  
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-333333?style=flat&logo=githubactions)  
+![GitLab CI](https://img.shields.io/badge/-GitLab%20CI-333333?style=flat&logo=gitlab)  
+![FluxCD](https://img.shields.io/badge/-FluxCD-333333?style=flat&logo=flux)  
+![ArgoCD](https://img.shields.io/badge/-ArgoCD-333333?style=flat&logo=argo)  
 
 **⚙️ DevOps Toolbox:**  
 
@@ -39,8 +39,8 @@
 ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)  
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-333333?style=flat&logo=kubernetes)  
 ![OpenShift](https://img.shields.io/badge/-OpenShift-333333?style=flat&logo=redhatopenshift)  
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-![GitLab](https://img.shields.io/badge/-GitLab-333333?style=flat&logo=gitlab)
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)  
+![GitLab](https://img.shields.io/badge/-GitLab-333333?style=flat&logo=gitlab)  
  
 
 **🛠️ Tools I use:**  
