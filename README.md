@@ -29,8 +29,9 @@
 ![Ansible](https://img.shields.io/badge/-Ansible-333333?style=flat&logo=ansible)  
 ![Helm](https://img.shields.io/badge/-Helm-333333?style=flat&logo=helm)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-333333?style=flat&logo=githubactions)
-![GitLab CI](https://img.shields.io/badge/-GitLab%20CI-333333?style=flat&logo=gitlab)  
+![GitLab CI](https://img.shields.io/badge/-GitLab%20CI-333333?style=flat&logo=gitlab)
 ![FluxCD](https://img.shields.io/badge/-FluxCD-333333?style=flat&logo=flux)
+![ArgoCD](https://img.shields.io/badge/-ArgoCD-333333?style=flat&logo=argo)
 
 **⚙️ DevOps Toolbox:**  
 
