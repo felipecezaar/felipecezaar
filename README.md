@@ -1,5 +1,6 @@
 ### Hello there! 👋 Felipe here 🚀
 
+[<img src="https://img.shields.io/badge/%F0%9F%9A%80-Platform Engineering-blue?style=flat&color=grey"/>](#)  
 [<img src="https://img.shields.io/badge/%F0%9F%9A%80-DevOps-blue?style=flat&color=grey"/>](#)  
 [<img src="https://img.shields.io/badge/%F0%9F%92%BB-Infrastructure-blue?style=flat&color=grey"/>](#)  
 [<img src="https://img.shields.io/badge/%F0%9F%94%8C-Automation-blue?style=flat&color=grey"/>](#)  
@@ -10,6 +11,7 @@
 <img src="https://raw.githubusercontent.com/felipecezaar/felipecezaar/refs/heads/main/images/computer-illustration-code.png" alt="ilustração de um computador" min-width="300px" max-width="300px" width="300px" align="right">
 
 
+- 🏗️ Platform Engineer focused on building scalable, resilient infrastructure and empowering developers with self-service tools  
 - 🧰 DevOps Specialist passionate about automation and good practices  
 - ☁️ Focused on Infrastructure as Code, CI/CD and Observability  
 - 🧠 Naturally curious, always exploring new tools and concepts  
@@ -23,7 +25,7 @@
 <br>
 <br>
 
-**⚙️ DevOps Toolbox:**  
+**⚙️ Platform Engineering & DevOps Toolbox:**  
 
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)   
 ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)  
