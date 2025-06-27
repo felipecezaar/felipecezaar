@@ -34,6 +34,8 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)  
 ![GitLab](https://img.shields.io/badge/-GitLab-333333?style=flat&logo=gitlab)  
 ![Grafana](https://img.shields.io/badge/-Grafana-333333?style=flat&logo=grafana)  
+![Backstage](https://img.shields.io/badge/-Backstage-333333?style=flat&logo=backstage)
+
  
 **💼 Currently working with:**  
 
